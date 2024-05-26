@@ -65,5 +65,5 @@ Users can input the number of principal components to be used for face reconstru
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/image-processing-app.git
-   cd image-processing-app
+   git clone https://github.com/AssemSadek90/Multi-Image-Processing-Algorithms.git
+   cd Multiple Algorithms
