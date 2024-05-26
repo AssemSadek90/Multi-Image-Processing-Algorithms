@@ -48,7 +48,7 @@ Parameters include rho resolution, theta resolution, and threshold for line dete
 Users can specify parameters such as the accuracy and minimum distance between detected ellipses.
 
 **Demo Image:**
-![Hough Ellipse Detection](Multiple Algorithms/images/Hough Ellipse Demo.png)
+![Hough Ellipse Detection](Multiple-Algorithms/images/Hough-Ellipse-Demo.png)
 
 ### Eigenfaces Face Reconstruction
 Users can input the number of principal components to be used for face reconstruction.
