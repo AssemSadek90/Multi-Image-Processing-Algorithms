@@ -54,7 +54,7 @@ Users can specify parameters such as the accuracy and minimum distance between d
 Users can input the number of principal components to be used for face reconstruction.
 
 **Demo Image:**
-![Eigenfaces Face Reconstruction]("Multiple%20Algorithms/images/Eigen%20Faces%20Demo.png")
+![Eigenfaces Face Reconstruction](Multiple%20Algorithms/images/Eigen%20Faces%20Demo.png)
 
 ## User Interaction
 
