@@ -42,7 +42,7 @@ Users can modify parameters like the sensitivity threshold for detecting corners
 Parameters include rho resolution, theta resolution, and threshold for line detection.
 
 **Demo Image:**
-![Hough Line Detection]("Multiple Algorithms/images/Hough Line Demo.png")
+![Hough Line Detection](Multiple%20Algorithms/images/Hough%20Line%20Demo.png)
 
 ### Hough Ellipse Detection
 Users can specify parameters such as the accuracy and minimum distance between detected ellipses.
