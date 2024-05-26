@@ -30,31 +30,31 @@ This project is a comprehensive image processing application developed using PyQ
 Allows users to adjust parameters such as the lower and upper thresholds for edge detection.
 
 **Demo Image:**
-![Canny Edge Detection](Multiple Algorithms/images/Canny Demo.png)
+![Canny Edge Detection]("Multiple Algorithms/images/Canny Demo.png")
 
 ### Harris Corner Detection
 Users can modify parameters like the sensitivity threshold for detecting corners.
 
 **Demo Image:**
-![Harris Corner Detection](Multiple Algorithms/images/Harris Corner Demo.png)
+![Harris Corner Detection]("Multiple Algorithms/images/Harris Corner Demo.png")
 
 ### Hough Line Detection
 Parameters include rho resolution, theta resolution, and threshold for line detection.
 
 **Demo Image:**
-![Hough Line Detection](Multiple Algorithms/images/Hough Line Demo.png)
+![Hough Line Detection]("Multiple Algorithms/images/Hough Line Demo.png")
 
 ### Hough Ellipse Detection
 Users can specify parameters such as the accuracy and minimum distance between detected ellipses.
 
 **Demo Image:**
-![Hough Ellipse Detection](Multiple_Algorithms/images/Hough_Ellipse_Demo.png)
+![Hough Ellipse Detection]("Multiple Algorithms/images/Hough Ellipse Demo.png")
 
 ### Eigenfaces Face Reconstruction
 Users can input the number of principal components to be used for face reconstruction.
 
 **Demo Image:**
-![Eigenfaces Face Reconstruction](Multiple Algorithms/images/Eigen Faces Demo.png)
+![Eigenfaces Face Reconstruction]("Multiple Algorithms/images/Eigen Faces Demo.png")
 
 ## User Interaction
 
